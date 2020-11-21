@@ -30,6 +30,3 @@ This project looks for the relationship between happiness scores and some other 
     |                                                                                                                                                   <br/>
     |__ Presentation                        <- Include Presentation slide (and presentation video if no limit on uploading)                             <br/>
 
-
- The main notebook file to be marked is in "codes -> [MAIN] Happiness_Exploration"
-
