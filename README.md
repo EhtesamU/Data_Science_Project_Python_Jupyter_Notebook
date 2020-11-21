@@ -1,8 +1,4 @@
-Group 4 members:
-- Quang Huy Ha - 44498535
-- Khanh Linh Pham - 45483736
-- Ehtesam Fayek Utsho - 44469357
-- Nguyen Minh Hanh Do - 45524866
+Data Science Project
 ==========================================================
 # “Is money the only determinant of happiness?”
 
