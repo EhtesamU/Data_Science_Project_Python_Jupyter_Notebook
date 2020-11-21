@@ -30,6 +30,6 @@ This project looks for the relationship between happiness scores and some other 
     |                                                                                                                                                   <br/>
     |__ Presentation                        <- Include Presentation slide (and presentation video if no limit on uploading)                             <br/>
 
-**NOTE FOR MARKER**: 
-- the main notebook file to be marked is in "codes -> [MAIN] Happiness_Exploration"
-- You might see there in only 1 contributer for the main notebook. It's because our group of 4 want to works with different methods and techniques simultaneously while avoid having conflict when merging, pushing and pulling, we decided to work on multiple notebook files and we made 1 person to take responsibility of putting all parts together into one single file called `[MAIN] Happiness_Exploration.ipynb`. At the end, all draft notebooks files are no longer needed and so it got removed. To access these draft files, please look for them in the commit history for the access. 
+
+ The main notebook file to be marked is in "codes -> [MAIN] Happiness_Exploration"
+
