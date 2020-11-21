@@ -1,12 +1,3 @@
-Group Project - Group 4
-Team members:
-- Nguyen Minh Hanh Do - 45524866
-- Khanh Linh Pham     - 45483736
-- Quang Huy Ha        - 44498535
-- Ehtesam Fayek Utsho - 44469357
-
-GitHub repository: https://github.com/MQCOMP2200-S2-2020/group-project-group-4
-
 # “Is money the only determinant of happiness?”
 
 ## 1. Summary
